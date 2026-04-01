@@ -3,6 +3,9 @@
 ## Project Overview
 This is a responsive Weather Dashboard built with React and Vite. It integrates with the Open-Meteo APIs to display real-time and historical weather data. The app automatically detects the user location via browser GPS and shows detailed insights including temperature, humidity, wind, air quality, and more.
 
+## Live Demo
+- https://weather-dashboard-bvt9.vercel.app/
+
 ## Tech Stack
 - React (Vite)
 - Tailwind CSS
